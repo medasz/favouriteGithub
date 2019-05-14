@@ -4,4 +4,4 @@ https://github.com/gdamore/tcell.git                  //终端文字图形化界
 https://www.hacksplaining.com/                        //web安全基础实例和讲解，能够简单实际操作  
 https://github.com/CHYbeta/Web-Security-Learning      //web安全学习  
 https://blog.csdn.net/zzwu/article/list/49?           //人工智能基础博客  
-https://github.com/vitalysim/Awesome-Hacking-Resources#exploits//一系列渗透测试资源
+https://github.com/vitalysim/Awesome-Hacking-Resources#exploits//  一系列渗透测试资源
