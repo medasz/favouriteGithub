@@ -7,3 +7,5 @@ https://blog.csdn.net/zzwu/article/list/49?           //人工智能基础博客
 https://github.com/vitalysim/Awesome-Hacking-Resources#exploits//  一系列渗透测试资源
 https://github.com/OWASP/SecurityShepherd            //Web和移动应用程序安全培训平台  
 https://github.com/qazbnm456/awesome-web-security    //Web安全材料和资源的精选列表  
+https://github.com/ismailtasdelen/xss-payload-list   //跨站点脚本（XSS）漏洞有效负载列表  
+https://github.com/s0md3v/AwesomeXSS                 //令人敬畏的XSS东西(其中主要包括xss思维导图)
