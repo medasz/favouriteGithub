@@ -5,3 +5,5 @@ https://www.hacksplaining.com/                        //web安全基础实例和
 https://github.com/CHYbeta/Web-Security-Learning      //web安全学习  
 https://blog.csdn.net/zzwu/article/list/49?           //人工智能基础博客  
 https://github.com/vitalysim/Awesome-Hacking-Resources#exploits//  一系列渗透测试资源
+https://github.com/OWASP/SecurityShepherd            //Web和移动应用程序安全培训平台  
+https://github.com/qazbnm456/awesome-web-security    //Web安全材料和资源的精选列表  
