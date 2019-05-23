@@ -15,3 +15,5 @@ https://github.com/ismailtasdelen/shell-backdoor-list// PHP / ASP - Shell后门�
 https://github.com/Hacker0x01/hacker101  //hack101  
 https://github.com/0xSobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot //XSS payload
 https://github.com/danielmiessler/SecLists  //密码字典
+https://github.com/Hack-with-Github/Awesome-Hacking  //黑客，测试者和安全研究人员的各种精彩列表的集合  
+https://github.com/sbilly/awesome-security   //一系列令人敬畏的软件，库，文档，书籍，资源和冷却安全性的东西。 
