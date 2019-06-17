@@ -19,5 +19,5 @@ https://github.com/Hack-with-Github/Awesome-Hacking  //黑客，测试者和安�
 https://github.com/sbilly/awesome-security   //一系列令人敬畏的软件，库，文档，书籍，资源和冷却安全性的东西。  
 https://github.com/c0ny1/vulstudy          //使用docker快速搭建各大漏洞学习平台，目前可以一键搭建12个平台。
 <hr/>
-https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式   
+https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式  
 https://github.com/senghoo/golang-design-pattern     //设计模式 Golang实现－《研磨设计模式》读书笔记
