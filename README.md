@@ -22,4 +22,5 @@ https://github.com/Hack-with-Github/Awesome-Hacking     //黑客，测试者和�
 https://github.com/SecWiki
 <hr/>
 https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式<br/> 
-https://github.com/senghoo/golang-design-pattern     //设计模式 Golang实现－《研磨设计模式》读书笔记
+https://github.com/senghoo/golang-design-pattern     //设计模式 Golang实现－《研磨设计模式》读书笔记  
+https://github.com/csunny/argo                       //GO数据结构
