@@ -26,3 +26,7 @@ https://github.com/silsuer/golang-design-patterns    //使用golang实现各种�
 https://github.com/senghoo/golang-design-pattern     //设计模式 Golang实现－《研磨设计模式》读书笔记  
 https://github.com/csunny/argo                       //GO数据结构<br/>
 https://github.com/algorithm-visualizer/algorithm-visualizer           //算法可视化
+
+<br><hr><br>
+https://github.com/avelino/awesome-go     //精选的Go框架，库和软件的精选列表 https://awesome-go.com/
+
