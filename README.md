@@ -22,7 +22,9 @@ https://github.com/Hack-with-Github/Awesome-Hacking     //黑客，测试者和�
 https://github.com/SecWiki<br/>
 https://www.vulnhub.com/    
 https://github.com/vulhub/vulhub                //docker靶场   
-https://github.com/xianlimei
+https://github.com/xianlimei       //个人github   
+https://github.com/s0md3v/XSStrike       //XSSstrike最先进的XSS扫描仪。    
+https://github.com/cuckoosandbox/cuckoo     //恶意软件分析工具
 <hr/>
 https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式<br/> 
 https://github.com/senghoo/golang-design-pattern     //设计模式 Golang实现－《研磨设计模式》读书笔记  
