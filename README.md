@@ -26,7 +26,8 @@ https://github.com/xianlimei       //个人github
 https://github.com/s0md3v/XSStrike       //XSSstrike最先进的XSS扫描仪。    
 https://github.com/cuckoosandbox/cuckoo     //恶意软件分析工具   
 https://github.com/xianlimei/Mind-Map      //思维导图   
-https://github.com/louchaooo/kali-tools-zh     //kali工具使用说明(中文翻译)
+https://github.com/louchaooo/kali-tools-zh     //kali工具使用说明(中文翻译)   
+https://github.com/ckjbug/kali-Linux-learning      //kali学习资料
 <hr/>
 https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式<br/> 
 https://github.com/senghoo/golang-design-pattern     //设计模式 Golang实现－《研磨设计模式》读书笔记  
@@ -36,6 +37,6 @@ https://github.com/algorithm-visualizer/algorithm-visualizer           //算法�
 <br><hr><br>
 https://github.com/avelino/awesome-go     //精选的Go框架，库和软件的精选列表 https://awesome-go.com/
 <br><hr><br>
-https://zhuanlan.zhihu.com/WindowsSubsystemForLinux      //windows中安装Ubuntu
+https://zhuanlan.zhihu.com/WindowsSubsystemForLinux      //windows中安装Ubuntu    
 https://github.com/Re4son/WSL-Kali-X                     //windows中安装kali
 
