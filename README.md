@@ -28,7 +28,9 @@ https://github.com/cuckoosandbox/cuckoo     //恶意软件分析工具
 https://github.com/xianlimei/Mind-Map      //思维导图   
 https://github.com/louchaooo/kali-tools-zh     //kali工具使用说明(中文翻译)   
 https://github.com/ckjbug/kali-Linux-learning      //kali学习资料
-https://github.com/Cyb3r3x3r/kaliLinuxNethunter-termux    
+https://github.com/Cyb3r3x3r/kaliLinuxNethunter-termux
+https://github.com/shadowsocks/shadowsocks-go    
+
 
 <hr/>
 https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式<br/> 
