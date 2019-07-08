@@ -40,7 +40,8 @@ https://github.com/csunny/argo                       //GO数据结构<br/>
 https://github.com/algorithm-visualizer/algorithm-visualizer           //算法可视化
 
 <br><hr><br>
-https://github.com/avelino/awesome-go     //精选的Go框架，库和软件的精选列表 https://awesome-go.com/
+https://github.com/avelino/awesome-go     //精选的Go框架，库和软件的精选列表   
+https://awesome-go.com/
 <br><hr><br>
 https://zhuanlan.zhihu.com/WindowsSubsystemForLinux      //windows中安装Ubuntu    
 https://github.com/Re4son/WSL-Kali-X                     //windows中安装kali
