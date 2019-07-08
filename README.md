@@ -30,7 +30,8 @@ https://github.com/louchaooo/kali-tools-zh     //kali工具使用说明(中文�
 https://github.com/ckjbug/kali-Linux-learning      //kali学习资料    
 https://github.com/Cyb3r3x3r/kaliLinuxNethunter-termux     
 https://github.com/shadowsocks/shadowsocks-go    
-https://github.com/ysrc/           //前同程安全应急响应中心，项目由离职同事业余时间维护。
+https://github.com/ysrc/           //前同程安全应急响应中心，项目由离职同事业余时间维护。    
+https://github.com/ym2011/SecurityMind      //旨在通过分析企业信息安全建设过程中的心路历程 ，从技术、管理、治理等多个层面了解企业信息安全建设的不同阶段
 
 <hr/>
 https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式<br/> 
