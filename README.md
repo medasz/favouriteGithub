@@ -32,7 +32,8 @@ https://github.com/Cyb3r3x3r/kaliLinuxNethunter-termux
 https://github.com/shadowsocks/shadowsocks-go    
 https://github.com/ysrc/           //前同程安全应急响应中心，项目由离职同事业余时间维护。    
 https://github.com/ym2011/SecurityMind      //旨在通过分析企业信息安全建设过程中的心路历程 ，从技术、管理、治理等多个层面了解企业信息安全建设的不同阶段   
-https://github.com/carpedm20/awesome-hacking    //精选的黑客教程，工具和资源的精选列表
+https://github.com/carpedm20/awesome-hacking    //精选的黑客教程，工具和资源的精选列表   
+https://github.com/avelino/awesome-go            //精选的Go框架，库和软件的精选列表 
 
 
 <hr/>
