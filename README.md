@@ -51,3 +51,5 @@ https://zhuanlan.zhihu.com/WindowsSubsystemForLinux      //windows中安装Ubunt
 https://github.com/Re4son/WSL-Kali-X                     //windows中安装kali
 <hr/>   
 https://github.com/shadowsocks              //shadowsocks
+<br><hr><br>
+https://github.com/Xyntax/BadUSB-code                       //badusb制作
