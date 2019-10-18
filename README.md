@@ -35,8 +35,9 @@ https://github.com/ym2011/SecurityMind      //旨在通过分析企业信息安�
 https://github.com/carpedm20/awesome-hacking    //精选的黑客教程，工具和资源的精选列表   
 https://github.com/avelino/awesome-go            //精选的Go框架，库和软件的精选列表 <br/>
 https://github.com/We5ter/                        //个人github关于扫描器，蜜罐等<br/>
-https://github.com/hacklcx                      //开源密罐
-https://www.pa55w0rd.online/other/                 //企业安全建设的开源项目
+https://github.com/hacklcx                      //开源密罐   
+https://www.pa55w0rd.online/other/                 //企业安全建设的开源项目    
+https://github.com/jekil/awesome-hacking.git        //黑客工具
 
 <hr/>
 https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式<br/> 
