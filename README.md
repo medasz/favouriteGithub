@@ -54,4 +54,5 @@ https://github.com/Re4son/WSL-Kali-X                     //windows中安装kali
 <hr/>   
 https://github.com/shadowsocks              //shadowsocks
 <br><hr><br>
-https://github.com/Xyntax/BadUSB-code                       //badusb制作
+https://github.com/Xyntax/BadUSB-code                       //badusb制作    
+https://github.com/3xp10it/Mind-Map                         //安全思维导图
