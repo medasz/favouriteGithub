@@ -38,7 +38,7 @@ https://github.com/We5ter/                        //个人github关于扫描器�
 https://github.com/hacklcx                      //开源密罐   
 https://www.pa55w0rd.online/other/                 //企业安全建设的开源项目    
 https://github.com/jekil/awesome-hacking.git        //黑客工具
-
+https://github.com/3xp10it/Mind-Map                         //安全思维导图      
 <hr/>
 https://github.com/silsuer/golang-design-patterns    //使用golang实现各种设计模式<br/> 
 https://github.com/senghoo/golang-design-pattern     //设计模式 Golang实现－《研磨设计模式》读书笔记  
@@ -55,4 +55,3 @@ https://github.com/Re4son/WSL-Kali-X                     //windows中安装kali
 https://github.com/shadowsocks              //shadowsocks
 <br><hr><br>
 https://github.com/Xyntax/BadUSB-code                       //badusb制做                   
-https://github.com/3xp10it/Mind-Map                         //安全思维导图
